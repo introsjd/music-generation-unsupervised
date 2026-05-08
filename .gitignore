@@ -1,0 +1,13 @@
+# Raw MIDI dataset — too large for GitHub
+data/raw_midi/
+data/processed/
+data/train_test_split/
+
+# Trained model weight files — too large for GitHub
+models/
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
