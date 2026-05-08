@@ -142,7 +142,7 @@ music-generation-unsupervised/
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Open [Google Colab](https://colab.research.google.com)
 2. Mount your Google Drive
@@ -157,7 +157,7 @@ pip install torch pretty_midi numpy matplotlib tqdm
 
 ---
 
-## 📏 Evaluation Metrics
+## Evaluation Metrics
 
 | Metric | Formula | Interpretation |
 |--------|---------|----------------|
@@ -168,7 +168,7 @@ pip install torch pretty_midi numpy matplotlib tqdm
 
 ---
 
-## 🔗 References
+## References
 
 - Hawthorne et al., *Enabling Factorized Piano Music Modeling with MAESTRO*, ICLR 2019
 - Kingma & Welling, *Auto-Encoding Variational Bayes*, arXiv 2013
