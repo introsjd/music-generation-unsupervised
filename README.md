@@ -69,7 +69,7 @@ All processed data, trained models, generated MIDI files, and plots are availabl
 
 ---
 
-## 🧠 Model Architectures
+## Model Architectures
 
 ### Task 1 — LSTM Autoencoder
 - **Encoder:** 2-layer LSTM (hidden size 256) → Linear → latent vector z (dim 64)
